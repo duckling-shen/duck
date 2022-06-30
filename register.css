@@ -1,0 +1,34 @@
+.r-r h3{
+    height: 42px;
+    border-bottom: 1px solid #ccc;
+    background-color: rgba(220, 238, 128, 0.786);
+    padding: 0 90px;
+    font-weight: 400;
+    font-family: "楷体";
+}
+.reg-form{
+    width: 600px;
+    margin: 50px auto 0;
+}
+.reg-form ul li {
+    margin-bottom: 20px;
+}
+.reg-form ul li label{
+    width: 350px;
+    display: inline-block;
+    text-align: right;
+    font-size: 20px;
+    font-family: "楷体";
+}
+.reg-form ul li input{
+    width: 242px;
+    height: 37px;
+    border:2px solid antiquewhite;
+}
+.btn{
+    height: 200px;
+    width: 34px;
+    background-color: rgb(144, 250, 227);
+    font-size: 14px;
+    margin: 90px 0 0 170px;
+}
